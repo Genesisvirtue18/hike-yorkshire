@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../Components/NavBar/Navbar";
+import Navbar from "../Components/Navbar/Navbar";
 // import BgImage from "../../src/assets/ContactUs/mountain-bg.webp"; 
 
 export default function Contact() {

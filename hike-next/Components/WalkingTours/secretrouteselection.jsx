@@ -1,6 +1,6 @@
 "use client"
 import { useState } from "react";
-import Navbar from "../NavBar/Navbar";
+import Navbar from "../Navbar/Navbar";
 // import SecretHeroImage from "../../assets/WalkingTour/secret-route-hero.webp";
 import SecretBookingModal from "@/Booking/SecretRouteBooking"; 
 

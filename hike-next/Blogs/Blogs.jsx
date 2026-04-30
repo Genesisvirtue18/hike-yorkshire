@@ -1,6 +1,6 @@
 import React from "react";
 import { useRouter } from "next/navigation";
-import Navbar from "../Components/NavBar/Navbar";
+import Navbar from "../Components/Navbar/Navbar";
 import Footer from "../Components/Footer/footer";
 import { ClockIcon, CalendarIcon } from "@heroicons/react/24/outline";
 

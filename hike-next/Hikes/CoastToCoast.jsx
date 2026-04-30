@@ -7,7 +7,7 @@ import BookingModal from "@/Booking/BookingModel";
 // import coastIllustration from "../../src/assets/DayHikes/coastIllustration.webp";
 // import pics1 from "../../src/assets/DayHikes/pic1.webp";
 // import pics2 from "../../src/assets/DayHikes/pic2.webp";
-import Navbar from "../Components/NavBar/Navbar";
+import Navbar from "../Components/Navbar/Navbar";
 // import lengthIcon from "../../src/assets/DayHikes/lengthIcon.webp";
 // import timeIcon from "../../src/assets/DayHikes/timeIcon.webp";
 // import difficultyIcon from "../../src/assets/DayHikes/difficultyIcon.webp";

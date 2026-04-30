@@ -1,6 +1,6 @@
 // import React, { useEffect, useState } from "react";
 // import { useParams } from "react-router-dom";
-// import Navbar from "../Components/NavBar/Navbar";
+// import Navbar from "../Components/Navbar/Navbar";
 // import Footer from "../Components/Footer/footer";
 
 // const SingleBlog = () => {
@@ -163,7 +163,7 @@
 "use client"
 import React, { useEffect, useState } from "react";
 import { useParams } from "next/navigation"; // ✅ Use Next.js navigation
-import Navbar from "../Components/NavBar/Navbar";
+import Navbar from "../Components/Navbar/Navbar";
 
 // Simple SEO component
 const SEO = ({ title, description, url }) => {

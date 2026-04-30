@@ -1,4 +1,4 @@
-import Navbar from "../Components/NavBar/Navbar";
+import Navbar from "../Components/Navbar/Navbar";
 
 
 export default function HaworthBrontes() {

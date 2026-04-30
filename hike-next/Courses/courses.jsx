@@ -1,6 +1,6 @@
 "use client"
 import React, { useState } from "react";
-import Navbar from "../Components/NavBar/Navbar";
+import Navbar from "../Components/Navbar/Navbar";
 // import hero from "../../src/assets/Course/courses-hero.webp";
 
 // import icon1 from "../../src/assets/Course/foraging-1.webp";

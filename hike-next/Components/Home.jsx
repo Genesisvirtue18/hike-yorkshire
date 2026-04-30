@@ -11,14 +11,14 @@
 // import BlogSection from "@/Components/BlogSection/BlogSection";
 // import WalkingTours from "@/Components/WalkingTours/WalkingTours";
 // import TailoredHikeSection from "@/Components/TailoredHikeSection/TailoredHikeSection";
-// import NavBar from "@/Components/NavBar/Navbar";
+// import Navbar from "@/Components/Navbar/Navbar";
 // import Footer from "@/Components/Footer/Footer";
 
 // export default function Home() {
 //   return (
 //     <div className="w-full overflow-hidden">
 
-//       {/* <NavBar /> */}
+//       {/* <Navbar /> */}
 //            {/*  <Hero />
 //         <Strengths />
 //       <Team />
@@ -49,7 +49,7 @@ import Testimonials from "@/Components/testimonials/Testimonials";
  import BlogSection from "@/Components/BlogSection/BlogSection";
 import WalkingTours from "@/Components/WalkingTours/WalkingTours";
   import TailoredHikeSection from "@/Components/TailoredHikeSection/TailoredHikeSection";
-import NavBar from "@/Components/NavBar/Navbar";
+import Navbar from "@/Components/Navbar/Navbar";
  import Footer from "@/Components/Footer/Footer";
 
 
@@ -59,7 +59,7 @@ import NavBar from "@/Components/NavBar/Navbar";
 export default function Home() {
   return (
     <div>
-      <NavBar />
+      <Navbar />
       <Hero />
       <Strengths />
       <Team />

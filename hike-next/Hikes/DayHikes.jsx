@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import { useRouter } from "next/navigation";
 import { X } from "lucide-react";
-import Navbar from "../Components/NavBar/Navbar";
+import Navbar from "../Components/Navbar/Navbar";
 // import hikeImage from "../../src/assets/Hike/tailoredhike.webp";
 
 // import dayHike1 from "../../src/assets/DayHikes/dayhike1.webp";

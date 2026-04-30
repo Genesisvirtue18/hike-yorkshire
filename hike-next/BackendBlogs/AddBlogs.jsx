@@ -1,6 +1,6 @@
 "use client"
 import React, { useEffect, useState } from "react";
-import Navbar from "../Components/NavBar/Navbar";
+import Navbar from "../Components/Navbar/Navbar";
 import { Pencil, Trash2, Plus, X, Eye, Upload, Image as ImageIcon } from "lucide-react";
 
 export default function AdminBlogDashboard() {

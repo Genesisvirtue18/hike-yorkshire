@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 import { MapPin, Clock, Mountain } from "lucide-react";
 // import heroImage from "../../src/assets/DayHikes/hero.webp";
 // import Yorkshire3peaksImage from "../assets/DayHikes/dalesway-hero.webp";
-import Navbar from "../Components/NavBar/Navbar";
+import Navbar from "../Components/Navbar/Navbar";
 // import lengthIcon from "../../src/assets/DayHikes/lengthIcon.webp";
 // import timeIcon from "../../src/assets/DayHikes/timeIcon.webp";
 // import difficultyIcon from "../../src/assets/DayHikes/difficultyIcon.webp";

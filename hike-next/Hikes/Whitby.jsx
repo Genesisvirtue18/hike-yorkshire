@@ -3,7 +3,7 @@ import React from "react";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { MapPin, Clock, Mountain } from "lucide-react";
-import Navbar from "../Components/NavBar/Navbar";
+import Navbar from "../Components/Navbar/Navbar";
 import BookingModal from "@/Booking/DayHikeBookingMode";
 
 
