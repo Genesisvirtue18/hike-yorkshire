@@ -38,14 +38,14 @@
 import React from "react";
 
 
-import Hero from "@/Components/hero/Hero";
+import Hero from "@/Components/Hero/Hero";
 import Strengths from "@/Components/Strengths/Strengths";
-import Team from "@/Components/team/Team";
+import Team from "@/Components/Team/Team";
 import FeaturedHikes from "@/Components/FeaturedHikes/FeaturedHikes";
 import MultiDayHikes from "@/Components/MultidayHike/MultidayHike";
 import AboutSection from "@/Components/About/about";
 import SecretYorkshire from "@/Components/SecretYorkshire/SecretYorkshire";
-import Testimonials from "@/Components/testimonials/Testimonials";
+import Testimonials from "@/Components/Testimonials/Testimonials";
  import BlogSection from "@/Components/BlogSection/BlogSection";
 import WalkingTours from "@/Components/WalkingTours/WalkingTours";
   import TailoredHikeSection from "@/Components/TailoredHikeSection/TailoredHikeSection";
